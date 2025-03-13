@@ -25,7 +25,8 @@
 
 ###
 
-<p align="left">I am Ralph Donato from Valley Cottage NY. src="MU.jpg"![image](https://github.com/user-attachments/assets/6195f113-f2d1-4bf5-ab8f-d75a842e4a21)
+<p align="left">I am Ralph Donato from Valley Cottage NY.
+  <p align src = "MU.jpg"/
  <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
