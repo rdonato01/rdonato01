@@ -25,8 +25,7 @@
 
 ###
 
-<p align="left">Student at <img height="40" src="MU.jpg"/> studying CIS and Business Analytics</p>
-![image](https://github.com/user-attachments/assets/b764a0c9-24a0-4671-a1bb-3bfc470fe284)
+<p align="left">Student at <img height="40" src="MU.jpg"/> studying CIS and Business Analytics</p>(https://github.com/user-attachments/assets/b764a0c9-24a0-4671-a1bb-3bfc470fe284)
 
  <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
