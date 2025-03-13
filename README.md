@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNidzc5dDRtYzF0OXY1dXdib2kybzNiY3B0c3UxdjA3OG93NThhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IzVwOO8xZsfks/giphy.gif/>
+  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"]  />
 </div>
 
 ###
@@ -57,6 +57,12 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
